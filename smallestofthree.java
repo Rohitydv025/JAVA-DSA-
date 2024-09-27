@@ -1,7 +1,5 @@
 import java.util.Scanner;
-
-
- public class smallestofthree {
+public class smallestofthree {
      public static void main(String[] args) {
          Scanner sc = new Scanner(System.in);
          // the least number between three
