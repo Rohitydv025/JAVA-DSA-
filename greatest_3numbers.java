@@ -1,6 +1,4 @@
 import java.util.Scanner;
-
-
 public class greatest_3numbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -22,13 +20,6 @@ public class greatest_3numbers {
 
         //output
        System.out.println( " the gretest is "+greatest);
-
-
-
-
-
-
-
     }
 
 
